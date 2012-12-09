@@ -1,6 +1,6 @@
 {
     "name": "alphalemon/social-sdk-bundle",
-    "description": "An AlphaLemon CMS app that adds the elasticsearch search engine to your website",
+    "description": "Adds the SDK required by social networks at the end of the web page, only when the SDK is required",
     "keywords": ["alphalemon", "social", "facebook", "twitter"],
     "homepage": "http://alphalemon.com",
     "type": "symfony-bundle",
