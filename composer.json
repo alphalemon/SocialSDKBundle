@@ -1,0 +1,18 @@
+{
+    "name": "alphalemon/social-sdk-bundle",
+    "description": "An AlphaLemon CMS app that adds the elasticsearch search engine to your website",
+    "keywords": ["alphalemon", "social", "facebook", "twitter"],
+    "homepage": "http://alphalemon.com",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [{
+      "name": "AlphaLemon",
+      "email": "info@alphalemon.com"
+    }],
+    "autoload": {
+        "psr-0": { "AlphaLemon\\Block\\SocialSDKBundle": ""
+        }
+    },
+    "target-dir" : "AlphaLemon/Block/SocialSDKBundle",
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,2 @@
+imports:
+- { resource: "@SocialSDKBundle/Resources/config/config_alcms.yml" }
